@@ -1,0 +1,2 @@
+Windows 10 Pro (Version: 22H2)
+Python 3.9.2 64-bit

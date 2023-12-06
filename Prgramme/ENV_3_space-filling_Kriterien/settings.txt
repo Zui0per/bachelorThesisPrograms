@@ -1,0 +1,2 @@
+Ubuntu 22.04.2 LTS
+Python 3.10.6 64-bit
